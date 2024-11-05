@@ -1,5 +1,5 @@
 CC = gcc
-CFALGS = -Wall -g -lm
+CFLAGS = -Wall -g -lm
 
 TARGET = sparse_matrix
 
